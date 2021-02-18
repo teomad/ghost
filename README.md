@@ -1,0 +1,2 @@
+# badHost
+Hint sistem 
